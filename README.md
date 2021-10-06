@@ -48,43 +48,7 @@ iii)	Clone the project by running the following bash command:
 $ git clone https://github.com/blaze199/effective-waste-management.git
 ```
 
-iv) The following files will be available in your cloned project
-
-	.. list-table:: **xampp/htdocs/e-waste/**
-	   :widths: 25 75
-	   :header-rows: 1
-
-	   * - Folder/File
-	     - Description
-
-	   * - ``application/``
-	     - contains all the system codeigniterframework files
-
-	   * - ``components/``
-	     - contains bootstrap css and javascripsts files, custom system Javascript files e.t.c
-
-	   * - ``hooks/``
-	     - Global batch files. (not necessary)
-
-	   * - ``system/``
-	     - contains core Codeigniter files
-
-	   * - ``uploads/``
-	     - contains all system images, documents, pdf e.t.c
-
-	   * - ``.htaccess``
-	     - codeigniter configuration file
-
-	   * - ``.ewaste``
-	     - SQL file
-
-	   * - ``.gitignore``
-	     - ignored files
-
-	   * - ``.LICENCE``
-	     - The MIT standard licence
-       
-v) Open awaste.sql and copy all the database schemas inside and paste it in your phpmyadmin server under the SQL tab of your mysql server. This action copies all the system tables and queries.
+v) Open ewaste.sql and copy all the database schemas inside and paste it in your phpmyadmin server under the SQL tab of your mysql server. This action copies all the system tables and queries.
 
 vi) You are almost done. Navigate to your browser open this link URL <http://localhost/e-waste/> to view your already set project.
 
