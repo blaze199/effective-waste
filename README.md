@@ -11,9 +11,8 @@ Group Members :
   
 	Ganesh Nikam
 	
-###################
-Project Features
-###################
+
+Project Features :
 
 	- User identification and authentication
 	- Separate Users' (**ADMIN, CLIENT**) privilegdes
@@ -31,12 +30,11 @@ Project Features
 		- **Client functionalities**
 			+ Add disposes he/she wants to dispose.
 			+ Track the disposes individually.
+			
 
-#######################
-Installation Steps:
-#######################
+Installation Steps :
 
-One is required to follow the instruction/or procedures as shown in the installation above for Xampp Server. The installation of the above enables the system to have PHP and MySQL installed in the directory; C:\Xampp directory and all other program files.
+	One is required to follow the instruction/or procedures as shown in the installation above for Xampp Server. The installation of the above enables the system to have PHP and MySQL installed in the directory; C:\Xampp directory and all other program files.
 
 i)	Create a local folder named "**e-waste**" in htdocs directory found in Xampp Server. 	This is the default publishing folder i.e. C:\Xampp\htdocs for all systems installed using Xampp Server 3.2.2.
 
@@ -48,16 +46,12 @@ iii)	Clone the project by running the following bash command:
 $ git clone https://github.com/blaze199/effective-waste-management.git
 ```
 
-v) Open ewaste.sql and copy all the database schemas inside and paste it in your phpmyadmin server under the SQL tab of your mysql server. This action copies all the system tables and queries.
+iv) Open ewaste.sql and copy all the database schemas inside and paste it in your phpmyadmin server under the SQL tab of your mysql server. This action copies all the system tables and queries.
 
-vi) You are almost done. Navigate to your browser open this link URL <http://localhost/e-waste/> to view your already set project.
-
-vi) That's it! Enjoy and have a happy coding experience.
+v) You are almost done. Navigate to your browser open this link URL <http://localhost/e-waste/> to view your already set project.
 
 
-###########################
-Admin Default Credentials
-###########################
+Admin Default Credentials :
 
 username: **admin@gmail.com**
 
